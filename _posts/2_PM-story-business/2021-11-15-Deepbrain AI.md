@@ -10,7 +10,7 @@ nav_order: -11
 > [Platum](https://platum.kr/archives/174968)
 
 
-![가상 인물 예시 이미지](../../assets/images/posts/AI-studios.jpg){: width="100%" height="100%"}
+![가상 인물 예시 이미지](../../assets/images/posts/AI_Studios.jpg){: width="100%" height="100%"}
 
 ## Deepbrain AI와 'AI STUDIOS'
 

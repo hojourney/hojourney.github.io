@@ -58,7 +58,7 @@ Passive: 사용자가 페이스북 콘텐츠를 활용은 하지만 콘텐츠를
 6.  적극적인 개인적 페이스북 사용은 청소년의 사회적 지지에 대한 인식을 + 시킬 것이다.
 
 
-![연구결과 첫 번째](../../assets/assets/images/posts/20210320_DescriptiveStatistics.png){: width="100%" height="100%"} 
+![연구결과 첫 번째](../../assets/images/posts/20210320_DescriptiveStatistics.png){: width="100%" height="100%"} 
 
 ![연구결과 두 번째](../../assets/images/posts/20210320_GenderAndAgeDifferences.png){: width="100%" height="100%"} 
 
