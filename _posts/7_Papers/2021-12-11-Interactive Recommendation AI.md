@@ -91,7 +91,7 @@ System의 효과는 Subject experiment를 통해 진행(99명: 16명은 지방�
 
 아래의 표를 통해 인터넷을 통해 뽑힌 참가자의 정량적 결과를 볼 수 있음
 
-![이미지](../../assets/images/posts/20211211_4.png){: width="100%" height="100%"}
+![이미지](../../assets/images/posts/2021-12-11-travel_distance_preference_space.jpeg){: width="100%" height="100%"}
 
 (a) 트레이닝 전과 후의 travel distance 차이 비교(p = 0.003) → training 후 travel distance가 significant하게 줄었다
 

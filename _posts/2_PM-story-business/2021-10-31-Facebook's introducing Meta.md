@@ -9,7 +9,7 @@ nav_order: -1
 
 Connect 2021에서 마크 주커버그는 페이스북의 새로운 이름 Meta를 공개하였다. 앞으로는 페이스북의 방향성을 metaverse에 맞추겠다는 것을 그대로 담아낸 이름이다.
 
-![Facebook's new logo, META](../../assets/images/posts/Facebook's new logo, META.png){: width="100%" height="100%"}
+![Facebook's new logo, META](../../assets/images/posts/2021-10-31_meta_logo.png){: width="100%" height="100%"}
 
 참고: [Meta's news blog](https://about.fb.com/news/2021/10/facebook-company-is-now-meta/)
 

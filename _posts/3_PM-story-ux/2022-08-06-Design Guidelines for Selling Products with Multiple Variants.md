@@ -33,7 +33,7 @@ Norman Group에서 이커머스 유저리서치에 기반하여 제공하는 가
    예) Best Buy의 텔레비전 상품 상세 페이지는 옵션을 위해 드롭다운을 제공한다. 
 
 ?? For context, each TV series corresponds to an entirely different model of television, with different technology and features available.
-![Best buy에서 LG OLED는 모델 종류를 선택메뉴에서 선택하도록 했다.](../../assets/images/posts/20220806_LG OLED.jpeg){: width="100%" height="100%"}
+![Best buy에서 LG OLED는 모델 종류를 선택메뉴에서 선택하도록 했다.](../../assets/images/posts/2022-08-06-LG_OLED.jpeg){: width="100%" height="100%"}
 
 
 사용자는 여기서 "시리즈"를 헷갈려했다. 시리즈를 바구면 페이지 정보와 제품명까지 바뀌게 된다. 하지만 featured image가 안 바껴서 시람들이 눈치를 채지 못했다.
@@ -44,7 +44,7 @@ Norman Group에서 이커머스 유저리서치에 기반하여 제공하는 가
 
 2. 옵션 선택 드롭다운만 있으면, 사용자들은 옵션이 복잡할 때 정보에 기반한 선택을 하기 어렵다. : 예를 들어 시리즈를 바꾸면 아래의 정보들이 다 바껴야하므로 (tv 시리즈를 변경하는 것은 그들 사이의 차이가 큼, 거의 다른 제품이라고 봐도 무방, 사람들은 시리즈 옵션 안에 있는 것들이 뭔지도 모름 -> 특히 의미없는 이름이 더 그렇게 만든다. )
 
-![선택메뉴에서 차이 보기를 선택하면 모달화면으로 모델간의 차이를 보여준다.](../../assets/images/posts/20220806_LG OLED 1.jpeg){: width="100%" height="100%"}
+![선택메뉴에서 차이 보기를 선택하면 모달화면으로 모델간의 차이를 보여준다.](../../assets/images/posts/2022-08-06-LG_OLED_1.jpeg){: width="100%" height="100%"}
 
 시리즈 옵션 아래에 차이가 뭔가요? 버튼이 있었으나 사용자는 이를 인지하지 못했다
 

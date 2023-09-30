@@ -8,7 +8,7 @@ nav_order: -6
 >ak님께서 공유해주신 글, 늘 좋은 지식을 공유해주셔서 감사합니다.
 
 ## 구글의 New AI Architecture Pathways
-![Google's new AI architecture](../../assets/images/posts/Google's new AI architecture.png){: width="100%" height="100%"}
+![Google's new AI architecture](../../assets/images/posts/2021-10-29-Google_new_AI_architecture.png){: width="100%" height="100%"}
 
 구글의 제프 딘이 3일 전 이런 글을 공유했다고 한다.
 
