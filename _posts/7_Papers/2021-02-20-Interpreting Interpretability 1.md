@@ -86,7 +86,7 @@ GAM-Normal / GAM-Manipulated / SHAP-Normal / SHAP-Manipulated 비교
 
 Normal vs Manipulated Visualizations에서는 결과의 차이가 보이지 않았음
 
-![연구결과](../../assets/assets/images/posts/20210220_Results.png){: width="100%" height="100%"} 
+![연구결과](../../assets/images/posts/20210220_Results.png){: width="100%" height="100%"} 
 
 
 

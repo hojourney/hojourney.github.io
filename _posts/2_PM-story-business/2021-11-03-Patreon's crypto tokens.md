@@ -17,6 +17,6 @@ Rally와 XCAD 같은 플랫폼에서 크리에이터가 발행한 토큰은 아�
 
 결론적으로 Patreon은 소셜 암호화폐의 밴드웨건을 노리고 있다는 것이다.
 
-![비트코인 대 Social token 플랫폼](../../assets/images/posts/Social token platforms versus bitcoin.png){: width="100%" height="100%"}
+![비트코인 대 Social token 플랫폼](../../assets/images/posts/2021-11-03-Social_token_platforms_versus_bitcoin.png){: width="100%" height="100%"}
 
 이 아티클에서 새로 알게 된 사실은 비트코인보다 Rally와 WHALE, XCAD가 벌써 return에서 앞서가고 있다는 것이다. (위 이미지 참고) ~~return은 수익률을 말하는 것인가?~~

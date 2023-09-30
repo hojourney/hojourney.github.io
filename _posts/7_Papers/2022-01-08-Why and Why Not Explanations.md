@@ -263,7 +263,7 @@ Why, Why Not 조건이 None, What If, How To 조건보다 → 정답 수 많았�
 ![이미지](../../assets/images/posts/20220108_14.png){: width="100%" height="100%"}
 \: Participants in the Why and Why Not conditions had an accuracy of 80.0% and 74.2%, respectively, compared to 61.7% for the None condition
 
-![이미지](../../assets/images/posts/20220108_15png){: width="100%" height="100%"}
+![이미지](../../assets/images/posts/20220108_15.png){: width="100%" height="100%"}
 
 ![이미지](../../assets/images/posts/20220108_16.png){: width="100%" height="100%"}
 \: the self-reports of understanding for Why and Why Not were 3.14 and 2.79, respectively
