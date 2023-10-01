@@ -3,9 +3,7 @@ layout: default
 title: 업무 시각화 (Making work visible) 독후감
 parent: Books
 nav_order: -8
-image:
-  path: ../../assets/images/posts/2023-05-14_kanbanBoard.jpg
-  alt: kanban
+image: ../../assets/images/posts/2023-05-14_kanbanBoard.jpg
 ---
 
 # {{page.title}}
