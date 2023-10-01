@@ -3,6 +3,9 @@ layout: default
 title: 업무 시각화 (Making work visible) 독후감
 parent: Books
 nav_order: -8
+image:
+  path: ../../assets/images/posts/2023-05-14_kanbanBoard.jpg
+  alt: kanban
 ---
 
 # {{page.title}}
@@ -16,7 +19,8 @@ nav_order: -8
 
 ## 칸반 보드
 (나는 카테고리를 추가하고 칸반 단계를 세부화해야겠다고 생각했다.)
-![[2023-05-14_kanbanBoard.jpg]]
+![](../../assets/images/posts/2023-05-14_kanbanBoard.jpg)
+
 
 ### 10분이면 처리할 수 있는 일도 추적해야 하는가
 아래의 경우 중 하나에 해당하지 않는 한, 10분짜리 업무를 추적할 필요는 없다.
